@@ -1,0 +1,30 @@
+@media screen and (max-width: 960px){
+	.sale-banner-desktop-only{
+		display:none  ;
+	}
+	.Krasse-on-mobile{
+		width:99% !important;
+
+	}
+	.heading-on-mobile{
+		font-size: 21px;
+	}
+	.paragraph-on-mobile{
+		font-size: 14px;
+	}
+	.logo-bottom-on-mobile{
+		margin-right: 64px !important;
+		margin-left: 64px !important;
+		margin-top: 10px;
+		margin-bottom: 40px;
+
+
+	}
+
+}
+
+@media screen and (min-width: 961px){
+	.sale-banner-mobile-only{
+		display: none ;
+	}
+}
