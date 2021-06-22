@@ -27,7 +27,6 @@ import OutdoorSofas from './components/ActualFurniture/OutdoorSofas/OutdoorSofas
 
 
 
-
 function App() {
   return (
     <div className='tc' >
